@@ -128,7 +128,7 @@ void printArrayList(arrayList* al) {
 			Voidlist++;
 		}
 	}
-*/
+*/																						//공백 제거용
 	if (al->size < 1)
 		printf("순차 리스트가 존재하지 않습니다\n");
 	else {
